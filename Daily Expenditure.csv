@@ -1,0 +1,21 @@
+Date,Category,Subcategory,Description,Amount, Payment Method,Location,Merchant,Recurring,Income,Savings,Notes,Day
+2024-06-01,Food,Groceries,Grocery shopping,50,Credit Card,New York,Walmart,Yes,150,100,Bought weekly supplies,Sunday
+2024-06-01,Transportation,Public Transit,Bus ticket,2.5,Cash,New York,MTA,No,150,100,Daily commute,Monday
+2024-06-01,Entertainment,Movies,Movie ticket,12,Debit Card,New York,AMC Theatres,No,150,100,Watched a new release,Tuesday
+2024-06-02,Food,Dining Out,Restaurant lunch,25,Credit Card,New York,McDonald's,No,150,125,Lunch with colleagues,Wednesday
+2024-06-02,Utilities,Electricity,Electricity bill,60,Debit Card,New York,ConEdison,Yes,150,90,Monthly bill payment,Thursday
+2024-06-03,Healthcare,Medical,Doctor's visit,80,Credit Card,New York,City Hospital,No,200,120,Annual check-up,Friday
+2024-12-01,Education,Books,Textbooks,40,Credit Card,New York,Barnes & Noble,No,200,160,Semester textbooks,Saturday
+2024-02-22,Rent,Housing,Monthly rent,1200,Bank Transfer,New York,Landlord,Yes,1500,300,Rent for June,Saturday
+2024-06-04,Transportation,Ride Share,Uber ride,20,Credit Card,New York,Uber,No,1500,300,Ride to airport,Sunday
+2024-06-05,Food,Groceries,,45,Cash,New York,Walmart,Yes,140,95,Weekly grocery run,Monday
+2024-06-05,Entertainment,Concerts,Concert ticket,100,Credit Card,New York,Ticketmaster,No,140,40,Live music event,Tuesday
+2024-06-06,Food,Dining Out,Restaurant dinner,30,Credit Card,New York,KFC,No,120,90,Dinner with friends,Friday
+2024-06-06,Health,Fitness,Gym membership,40,Debit Card,New York,Gold's Gym,Yes,120,80,Monthly gym fee,Wednesday
+2024-06-07,Clothing,Apparel,Shoes purchase,70,Credit Card,New York,Nike Store,No,160,90,New running shoes,Friday
+01-22-2024,Transportation,Fuel,Gasoline,50,Credit Card,New York,Shell,No,160,90,Filled up the tank,Tuesday
+2024-06-05,Entertainment,Concerts,Concert ticket,100,Credit Card,New York,Ticketmaster,No,140,40,Live music event,Sunday
+2024-06-06,Health,Dining Out,Restaurant dinner,30,Credit Card,New York,KFC,No,120,90,Dinner with friends,Sunday
+2024-06-06,Health,Fitness,Gym membership,40,Debit Card,New York,Gold's Gym,Yes,120,80,Monthly gym fee,Saturday
+2024-06-07,Clothing,Apparel,Shoes purchase,70,Credit Card,New York,Nike Store,No,160,90,New running shoes,Friday
+2024-01-22,Transportation,Fuel,Gasoline,50,Cash,New York,Shell,No,160,90,Filled up the tank,Thursday
